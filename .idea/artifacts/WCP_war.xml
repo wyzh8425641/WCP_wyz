@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WCP:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/WCP_war</output-path>
+    <root id="archive" name="WCP_war.war">
+      <element id="artifact" artifact-name="WCP:war exploded" />
+    </root>
+  </artifact>
+</component>
